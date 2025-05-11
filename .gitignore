@@ -1,0 +1,64 @@
+.venv/
+__pycache__/
+build/
+dist/
+*.egg-info/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+.env
+.env.*
+.uv/
+uv.lock
+.DS_Store
+*.log
+.idea/
+.vscode/
+*.bak
+*.swp
+*.swo
+*.~
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+# C extensions
+*.so
+# Distribution / packaging
+.Python
+# Installer logs
+debug.log
+pip-log.txt
+pip-delete-this-directory.txt
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+# Jupyter Notebook
+.ipynb_checkpoints
+# VS Code settings
+.vscode/
+# mypy
+.mypy_cache/
+.dmypy.json
+# Pyre type checker
+.pyre/
+# pyright
+.pyright/
+# Local env files
+.env
+.env.*
+# macOS
+.DS_Store
+# Windows
+Thumbs.db
+# PyInstaller
+*.spec

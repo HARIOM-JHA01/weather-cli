@@ -1,0 +1,12 @@
+[project]
+name = "weather-cli"
+version = "1.0.0"
+dependencies = [
+    "requests",
+    "typer",
+    "rich",
+    "python-dotenv",
+]
+
+[project.scripts]
+weather = "weather_cli.weather:app"
